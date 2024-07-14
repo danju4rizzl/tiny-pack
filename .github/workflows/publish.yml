@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Publish tiny pack 📦
-        run: npx jsr publish --allow-dirty4
+        run: npx jsr publish --allow-dirty
