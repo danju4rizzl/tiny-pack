@@ -1,0 +1,5 @@
+{
+  "name": "@deejaydev/tiny-pack",
+  "version": "0.1.0",
+  "exports": "./index.ts"
+}

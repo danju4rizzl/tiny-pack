@@ -1,0 +1,15 @@
+{
+  "name": "tiny-pack",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "bun run --watch index.ts",
+    "publish": "bunx jsr publish"
+  },
+  "type": "module"
+}
